@@ -1,0 +1,96 @@
+# 📁 File Management System
+
+A simple and interactive **File Management System** developed using Python. This project provides a menu-driven command-line interface to manage files and folders easily.
+
+Users can perform various file operations such as creating, reading, writing, appending, deleting, renaming, searching, copying files, viewing file information, and creating backups.
+
+## 🚀 Features
+
+1. **Create File** – Create new files.
+2. **Read File** – Read the contents of existing files.
+3. **Write File** – Write content into a file.
+4. **Append File** – Add new content without removing existing data.
+5. **Delete File** – Delete existing files.
+6. **Rename File** – Change the name of a file.
+7. **Search File** – Search for files by name.
+8. **Display Files** – Display all available files.
+9. **Copy File** – Create a copy of an existing file.
+10. **File Information** – View file name, size, and last modified date.
+11. **Create Folder** – Create new folders.
+12. **Backup Files** – Create backups of available files.
+
+## 📥 Download Application
+
+Download the Windows executable version of the project and start using it!
+
+https://github.com/saniya2006-hub/File-Management-system/releases/tag/v1
+
+**How to Run:**
+1. Download `main.exe`.
+2. Open the downloaded file.
+3. The application will launch in the terminal.
+4. Start managing your files and folders!
+
+> **Note:** Python installation is not required to run the standalone executable.
+
+## 💻 How to Use
+
+1. Run the application.
+2. Select an option from the displayed menu.
+3. Enter the required file or folder name.
+4. Perform the selected file management operation.
+5. Enter `0` to exit the application.
+
+## 🛠️ Technologies Used
+
+- **Programming Language:** Python
+- **Modules:** os, datetime
+- **Interface:** Command Line Interface (CLI)
+- **Code Editor:** Visual Studio Code
+
+## 📂 Project Structure
+
+```text
+File_Management_System/
+│
+├── main.py
+├── main.exe
+├── main.spec
+├── appicon.ico
+├── README.md
+├── .gitignore
+│
+├── modules/
+│   └── menu.py
+│
+├── MyFiles/
+│
+└── Backup/
+```
+
+## ✨ Project Highlights
+
+- Simple menu-driven interface.
+- Organized file and folder management.
+- Automatic creation of storage and backup directories.
+- Exception handling for common file operations.
+- Colorful terminal output for better readability.
+
+## 🎯 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Python File Handling
+- Directory Management using OS Module
+- Exception Handling
+- Date and Time Handling
+- Modular Programming
+- File Management Operations
+
+## 👩‍💻 Author
+
+**Saniya Khatri**
+
+GitHub: [Saniya2006-hub](https://github.com/Saniya2006-hub)
+
+---
