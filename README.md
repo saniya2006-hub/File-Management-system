@@ -21,10 +21,10 @@ Users can perform various file operations such as creating, reading, writing, ap
 12. **Backup Files** – Create backups of available files.
 
 
-
 ## 📥 Download
 
-[![Download EXE](https://img.shields.io/badge/Download-EXE-brightgreen?style=for-the-badge)](https://github.com/saniya2006-hub/File-Management-system/releases/latest/download/main.exe)
+[![Download EXE](https://img.shields.io/badge/Download-EXE-green?style=for-the-badge)](https://github.com/saniya2006-hub/File-Management-system/releases/latest/download/main.exe)
+
 
 **How to Run:**
 1. Download `main.exe`.
